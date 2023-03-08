@@ -1,0 +1,9 @@
+.btn {
+  background-color: blue;
+  color: gold;
+
+  &:hover {
+    background-color: gold;
+    color: blue;
+  }
+}
